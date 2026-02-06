@@ -7,6 +7,8 @@ title: "Certificates of Analysis"
 #### All of our products are tested by an independent 3rd party lab for consistency, quality, purity, and quality.
 
 
+*   [Power House Lemon Lime - Canned 2/4/2026](/coas/2026-02-04 Power House - Lemon Lime COA - Final.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
+*   [Power House Strawberry - Canned 2/4/2026](/coas/2026-02-04 Power House - Strawberry COA - Final.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
 *   [Can You Take Me Higher Baha Blaster - Canned 1/2/2026](/coas/2026-01-02 Can You Take Me Higher - Baha Blaster - Final.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
 *   [Power House Lemon Lime (POLL-9) - Canned 3/31/2025](/coas/2025-03-31 Power House - Lemon Lime COA - POLL-9.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
 *   [Power House Strawberry (TREE-10) - Canned 3/28/2025](/coas/2025-03-28 Power House - Strawberry COA - TREE-10.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
