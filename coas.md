@@ -6,6 +6,7 @@ title: "Certificates of Analysis"
 
 #### All of our products are tested by an independent 3rd party lab for consistency, quality, purity, and quality.
 
+*   [Can You Take Me Higher Pina Colada - Canned 4/17/2026](/coas/2026-04-17 Can You Take Me Higher - Pickle COA - Final.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
 *   [Can You Take Me Higher Pina Colada - Canned 3/26/2026](/coas/2026-03-26 Can You Take Me Higher - Pina Colada COA - Final.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
 *   [Power House Lemon Lime - Canned 2/4/2026](/coas/2026-02-04 Power House - Lemon Lime COA - Final.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
 *   [Power House Strawberry - Canned 2/4/2026](/coas/2026-02-04 Power House - Strawberry COA - Final.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:style="text-decoration: none;"}
